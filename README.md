@@ -12,6 +12,4 @@ Here I have collected some of my algorithms, written on Python from scratch:
 
 They all solve the same classification problem. Results are plotted on the same graph for comparing.
 
-Spoiler: KNN is the BEST!!!
-
 ![all models](all_models.png)
