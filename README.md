@@ -1,7 +1,7 @@
-# All-models
-Some my models for ML projects
+# My ML models written from scratch
 
-Here I have collected some of my algorithms, written on Python from scratch:
+Some of my models, wich I have written from scratch in Python are solving the same task.
+Here they are:
 
 - Soft Max Regression
 - KNN
